@@ -1,0 +1,2 @@
+tag,model,dilations,epochs,batch_size,lr,psnr,loss,train_time_s
+dilated_1-2-5,dilated,"1,2,5",15,16,0.001,14.32,0.037190,706.4
