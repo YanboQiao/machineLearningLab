@@ -11,6 +11,7 @@ env/
 .venv/
 .env/
 
+
 # IDE相关
 .idea/
 .vscode/
@@ -31,3 +32,4 @@ dataset/
 
 # macOS系统文件
 .DS_Store
+/virus_sentiment/checkpoint/
